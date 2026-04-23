@@ -1,0 +1,18 @@
+# Maven build output
+target/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java temporary files
+*.log
+*.class
+
+# Ignore local JDK or bundled JDK binaries in repo
+jdk/
